@@ -1,24 +1,22 @@
 # Hi, I'm Brandon 👋
 
-Programmer Analyst at the **Massachusetts State Lottery**, where I work on the mission-critical Central Gaming System and lead our internal adoption of AI development tools. Wentworth CS grad. I came up through QA and earned my way into a development role, and I care about building software that feels fast, reliable, and genuinely useful.
+> I bring modern AI-assisted development into software that can't afford to break.
+
+I'm a Software Engineer (Programmer Analyst) at the **Massachusetts State Lottery**, working on the Central Gaming System — high-volume, real-time software on a decades-old, high-stakes codebase. I lead our internal adoption of AI development tools, and I came up the unglamorous way: QA → Senior QA → Programmer Analyst, learning how a critical system really behaves before building on it.
 
 ### 🔭 What I'm working on
-- **The Kitty** — a native mobile app in React Native + TypeScript (recently refactored off a Capacitor hybrid build for a true native feel)
-- **Obsidn Ventures** — building Vaulted, a mobile-first personal finance app
-- Leading the rollout of AI-assisted development (GitHub Copilot) across a large legacy codebase
-- An open-source API library — *coming soon* 👀
+- **[Oddsmith](https://github.com/brandonsullivan-dev/oddsmith)** — an open-source TypeScript library for sports-betting math: odds conversion, no-vig pricing, parlays, EV, and Kelly. Zero dependencies, fully typed, CI-backed.
+- **Kitty Gaming** — lead engineer on a native React Native app that compares odds across every sportsbook before you place a bet.
+- Leading the rollout of **AI-assisted development** (GitHub Copilot) across a large legacy codebase.
 
-### 🛠️ Tech I work with
-`Java` · `TypeScript` · `JavaScript` · `Python` · `Dart` · `SQL`
-**React Native** · **Flutter** · **Node.js** · Git · CI/CD · GitHub Copilot · Claude Code
+### 🛠️ Tech
+`TypeScript` · `Java` · `JavaScript` · `Python` · `Dart` · `SQL`
+**React Native** · Node.js · Git · CI/CD · GitHub Copilot · Claude Code
 
 ### 🌱 Currently learning
-Software design, AI engineering, and data-intensive systems — working through a deliberate two-year growth plan and learning in public.
+Software design, AI engineering, and data-intensive systems — working a deliberate growth plan and learning in public.
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/brandonsullivan-swe/) · bsully142@gmail.com
+[LinkedIn](https://www.linkedin.com/in/brandonsullivan) · bsully142@gmail.com
 
-<!-- Optional: GitHub stats card. Replace [username] with your handle, or delete this block. -->
-<!--
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&hide_border=true)
--->
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonsullivan-dev&show_icons=true&hide_border=true&count_private=true)
