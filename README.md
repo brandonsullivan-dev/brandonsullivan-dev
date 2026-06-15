@@ -17,6 +17,6 @@ I'm a Software Engineer (Programmer Analyst) at the **Massachusetts State Lotter
 Software design, AI engineering, and data-intensive systems — working a deliberate growth plan and learning in public.
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/brandonsullivan) · bsully142@gmail.com
+[LinkedIn](https://www.linkedin.com/in/brandon-sullivan-swe) · bsully142@gmail.com
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonsullivan-dev&show_icons=true&hide_border=true&count_private=true)
